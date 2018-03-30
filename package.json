@@ -1,0 +1,36 @@
+{
+  "name": "@ascendancyy/eslint-config-franxx",
+  "version": "1.0.0",
+  "description": "modified vue eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascendancyy/eslint-config-franxx.git"
+  },
+  "keywords": [
+    "vue",
+    "eslint"
+  ],
+  "author": "Stephen Lam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ascendancyy/eslint-config-franxx/issues"
+  },
+  "homepage": "https://github.com/ascendancyy/eslint-config-franxx#readme",
+  "dependencies": {
+    "eslint-plugin-vue": "^4.4.0"
+  },
+  "devDependencies": {
+    "@ascendancyy/eslint-config-eva": "^2.0.0",
+    "eslint": "^4.19.1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 4.0.0"
+  }
+}
