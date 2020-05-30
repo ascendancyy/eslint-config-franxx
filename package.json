@@ -27,7 +27,7 @@
     "eslint-plugin-vue": "7.0.0-alpha.5"
   },
   "devDependencies": {
-    "@ascendancyy/eslint-config-eva": "^3.1.0",
+    "@ascendancyy/eslint-config-eva": "^3.1.1",
     "eslint": "^7.1.0"
   },
   "peerDependencies": {
