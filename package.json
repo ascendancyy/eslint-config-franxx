@@ -24,13 +24,13 @@
   },
   "homepage": "https://github.com/ascendancyy/eslint-config-franxx#readme",
   "dependencies": {
-    "eslint-plugin-vue": "^4.4.0"
+    "eslint-plugin-vue": "7.0.0-alpha.5"
   },
   "devDependencies": {
-    "@ascendancyy/eslint-config-eva": "^2.0.0",
-    "eslint": "^4.19.1"
+    "@ascendancyy/eslint-config-eva": "^3.1.0",
+    "eslint": "^7.1.0"
   },
   "peerDependencies": {
-    "eslint": ">= 4.0.0"
+    "eslint": "^7.0.0"
   }
 }
